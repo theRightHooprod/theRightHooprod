@@ -1,5 +1,8 @@
-Greetings! 👉👈
+<h1 align="center">Hi 👋, I'm TheRightHoopRod</h1>
+<h3 align="center">A flutter developer on development</h3>
 
-I'm @theRightHoopRod and I'm a dart developer in development 😈
+- 🔭 I’m currently working on [CookingStack](https://github.com/theRightHooprod/cooking-stack)
 
-I'm batman 🦇🦇🦇
+- 🌱 I’m currently learning **nodejs and TypeScript**
+
+- 💬 Ask me about **Flutter**
