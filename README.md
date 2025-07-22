@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CookingStack](https://github.com/theRightHooprod/cooking-stack)
 
-- 🌱 I’m currently learning **Spring boot** and **PHP**
+- 🌱 I’m currently learning **nextjs** and **typescript**
 
 - 💬 Ask me about **Flutter**
 
